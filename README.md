@@ -44,6 +44,6 @@ BloomIQ is an AI-powered adaptive learning platform that personalizes the learni
 ## Running Locally
 ```sh
 git clone <REPOSITORY_URL>
-cd bloomiq-ai-learning
+cd BloomIQ
 npm install
 npm run dev
